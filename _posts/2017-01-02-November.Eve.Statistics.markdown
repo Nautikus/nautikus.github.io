@@ -7,7 +7,10 @@ categories: ["life", friends]
 
 Hello!
 
-```
-Every month, CCP Games releases economic data for their game, Eve Online. I took the market data, and used R to visualize the data. 
 
-The code was put into an RMarkdown document for viewing [here](https://github.com/Nautikus/Eve-Online-November/blob/master/Summary.md)```
+Every month, CCP Games releases economic data for their game, Eve Online. I took the data and created some basic visualizations using:
+- R
+- ggplot2
+- RStudio
+
+The code was put into an RMarkdown document for viewing [here](https://github.com/Nautikus/Eve-Online-November/blob/master/Summary.md)
