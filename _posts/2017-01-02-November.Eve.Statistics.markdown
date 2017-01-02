@@ -4,9 +4,11 @@ title: "Summary Statistics for Eve Online in November"
 date: 2017-01-02 19:45:31
 categories: ["life", friends]
 ---
-
-Hello!
-
+<div class="manual-post">
+  <div class="manual manual-title">
+  <strong>Hello!</strong>
+  </div>
+<p>  <div class="manual-content">
 
 Every month, CCP Games releases economic data for their game, Eve Online. I took the data and created some basic visualizations using:<br>
 
@@ -15,3 +17,4 @@ Every month, CCP Games releases economic data for their game, Eve Online. I took
 <code>RStudio</code><br>
 <br>
 The code was put into an RMarkdown document for viewing [here](https://github.com/Nautikus/Eve-Online-November/blob/master/Summary.md)
+</div>
