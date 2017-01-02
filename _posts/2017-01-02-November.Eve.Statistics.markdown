@@ -7,6 +7,7 @@ categories: ["life", friends]
 
 Hello!
 
+<p>
 Every month, CCP Games releases economic data for their game, Eve Online. I took the market data, and used R to visualize the data. 
 
-The code was put into an RMarkdown document for viewing [here](https://github.com/Nautikus/Eve-Online-November/blob/master/Summary.md)
+The code was put into an RMarkdown document for viewing [here](https://github.com/Nautikus/Eve-Online-November/blob/master/Summary.md)</p>
