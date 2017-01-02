@@ -8,7 +8,7 @@ categories: ["life", friends]
 Hello!
 
 
-Every month, CCP Games releases economic data for their game, Eve Online. I took the data and created some basic visualizations using:
+Every month, CCP Games releases economic data for their game, Eve Online. I took the data and created some basic visualizations using:<br>
 - R
 - ggplot2
 - RStudio
