@@ -16,5 +16,6 @@ Every month, CCP Games releases economic data for their game, Eve Online. I took
 <code>ggplot2</code><br>
 <code>RStudio</code><br>
 <br>
-The code was put into an RMarkdown document for viewing [here](https://github.com/Nautikus/Eve-Online-November/blob/master/Summary.md)
+
 </div>
+The code was put into an RMarkdown document for viewing [here](https://github.com/Nautikus/Eve-Online-November/blob/master/Summary.md)
