@@ -9,8 +9,9 @@ Hello!
 
 
 Every month, CCP Games releases economic data for their game, Eve Online. I took the data and created some basic visualizations using:<br>
-- R <br>
-- ggplot2 <br>
-- RStudio <br>
-
+<ul>
+<li>R</li> 
+<li>ggplot2</li> 
+<li>RStudio</li> 
+</ul>
 The code was put into an RMarkdown document for viewing [here](https://github.com/Nautikus/Eve-Online-November/blob/master/Summary.md)
