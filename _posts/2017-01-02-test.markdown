@@ -44,7 +44,7 @@ ggplot(data=df, aes(x=regionName, y=totalDest)) + geom_bar(fill="red3", stat="id
   scale_y_continuous(expand = c(0,0), limits = c(0,3.5))
 ```
 
-![](Summary_files/figure-markdown_github/RegionalDest-1.png)
+![](https://github.com/Nautikus/Eve-Online-November/tree/master/Summary_files/figure-markdown_github/RegionalDest-1.png)
 
 #### Total ISK Produced by Region
 
@@ -67,7 +67,7 @@ ggplot(data=df, aes(x=regionName, y=totalProd)) + geom_bar(fill="blue3", stat="i
   scale_y_continuous(expand = c(0,0), limits = c(0,30))
 ```
 
-![](Summary_files/figure-markdown_github/RegionalProd-1.png)
+![](https://github.com/Nautikus/Eve-Online-November/tree/master/Summary_files/figure-markdown_github/RegionalProd-1.png)
 
 #### Total ISK Produced vs Total ISK Destroyed
 
@@ -96,4 +96,4 @@ ggplot(data=mm, aes(x=regionName, y=value)) +
                       labels=c("Total Destroyed", "Total Produced"))
 ```
 
-![](Summary_files/figure-markdown_github/RegionalComparison-1.png)
+![](https://github.com/Nautikus/Eve-Online-November/tree/master/Summary_files/figure-markdown_github/RegionalComparison-1.png)
