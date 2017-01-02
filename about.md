@@ -19,7 +19,7 @@ The idea of this site is to showcase various analysis and data science projects 
 <li>Power BI</li>
 <li>SQL</li>
 </ul>
-<br><br>
+<br>
 From these tools, using the different libraries and frameworks available such as d3.js, plot.ly, etc.<br>
 
 These will all be showcased, using different data sets I find. I want to take the datasets, and create visualizations that explain everything clearly and concisely.<br><br>
