@@ -2,7 +2,7 @@
 layout: post
 title: "Summary Statistics for Eve Online in November"
 date: 2017-01-02 19:45:31
-categories: R
+categories: R, ggplot2
 author: Nautikus
 ---
 <div class="manual-post">
