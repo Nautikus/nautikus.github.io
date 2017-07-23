@@ -20,4 +20,4 @@ Tools used:<br>
 <br>
 
 </div>
-The code was put into an Juypter document for viewing <a href="https://github.com/Nautikus/Kaggle-Chopstick-Ergonomics/blob/master/Analysis.ipynb">here</a>
+The code was put into an Jupyter document for viewing <a href="https://github.com/Nautikus/Kaggle-Chopstick-Ergonomics/blob/master/Analysis.ipynb">here</a>
