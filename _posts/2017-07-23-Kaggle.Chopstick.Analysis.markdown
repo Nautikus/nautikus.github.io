@@ -15,7 +15,7 @@ I downloaded the data from the Kaggle Chopstick page and performed some summary 
 
 Tools used:<br>
 
-<code>R</code>
+<code>R</code><br>
 <code>Jupyter Notebooks</code><br> 
 <br>
 
