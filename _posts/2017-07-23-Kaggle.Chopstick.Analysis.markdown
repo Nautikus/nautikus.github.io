@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Kaggle Chopstick Analysis"
+date: 2017-07-23 19:45:31
+categories: R
+
+---
+<div class="manual-post">
+  <div class="manual manual-title">
+  <strong>Hello!</strong>
+  </div>
+<p>  <div class="manual-content">
+
+I downloaded the data from the Kaggle Chopstick page and performed some summary statistics on length of chopsticks and their efficacy.<br>
+
+Tools used:<br>
+
+<code>R</code>
+<code>Jupyter Notebooks</code><br> 
+<br>
+
+</div>
+The code was put into an Juypter document for viewing <a href="https://github.com/Nautikus/Kaggle-Chopstick-Ergonomics/blob/master/Analysis.ipynb">here</a>
